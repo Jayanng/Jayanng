@@ -1,4 +1,4 @@
-## Hey, I'm Johnson
+## Hey, I'm Jayanng
 
 Solo builder at the intersection of AI agents, crypto products, and product engineering. I design, build, and ship products end to end: wallets, trading infrastructure, and agent tooling. I care about honest state, clean UX, and code that proves itself.
 
