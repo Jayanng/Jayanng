@@ -32,5 +32,6 @@ Finds the cause, fixes it, and proves the fix. neatHack 2026.
 **Contact**
 
 - Email: [johnenyenihi2017@gmail.com](mailto:johnenyenihi2017@gmail.com)
+- X: [@Johnenyenih2](https://x.com/Johnenyenih2)
 
 > Ship real things. Honest state always.
