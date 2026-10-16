@@ -4,7 +4,6 @@ Solo builder at the intersection of AI agents, crypto products, and product engi
 
 **Wins**
 
-- Launched **NOVA** on Robinhood Chain (Sep 2026)
 - Built and shipped three products live: **ripcord**, **chogpool**, **baserate**
 - Contributing to **neatroots** (agent-run observability): bug fixes and a shipped OpenHarness integration
 
@@ -32,7 +31,6 @@ Finds the cause, fixes it, and proves the fix. neatHack 2026.
 
 **Contact**
 
-- Website: [ripcord-wallet.vercel.app](https://ripcord-wallet.vercel.app)
-- GitHub: [@Jayanng](https://github.com/Jayanng)
+- Email: [johnenyenihi2017@gmail.com](mailto:johnenyenihi2017@gmail.com)
 
 > Ship real things. Honest state always.
